@@ -29,13 +29,10 @@ git clone https://github.com/vaibhav34777/AI-Research-Assistant.git
 cd AI-Research-Assistant
 pip install -r requirements.txt
 
-
-
-
-## Data Sources
+##  Data Sources
 Papers used in this project are public domain and sourced from ***arXiv***.
 
-## Future Improvements
+##  Future Improvements
 - User-uploaded PDF support
 - Chat-based interface
 - More powerful LLM integration (e.g., Mixtral, Claude)
