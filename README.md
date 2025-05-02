@@ -38,13 +38,13 @@ git clone https://github.com/vaibhav34777/AI-Research-Assistant.git
 cd AI-Research-Assistant
 ```
 
-### 📦 Install dependencies
+###  Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 🔑 Set your Hugging Face API token
+### Set your Hugging Face API token
 
 Make sure you have a valid Hugging Face token. Set it as an environment variable:
 
