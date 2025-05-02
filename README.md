@@ -20,19 +20,19 @@ A lightweight, interactive AI-powered research assistant built using Retrieval-A
 - [Sentence-Transformers](https://www.sbert.net/) for embeddings
 - [Hugging Face Inference API](https://huggingface.co/inference-api) for answer generation
 
-## Setup Instructions
+##  Setup Instructions
 
-**Clone this repo**
+### 1.Clone this repo
 
 ```bash
 git clone https://github.com/vaibhav34777/AI-Research-Assistant.git
-cd rag-research-assistant
+cd AI-Research-Assistant
 
-
-**Install Dependencies**
+### 2.Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
