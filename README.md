@@ -22,16 +22,13 @@ A lightweight, interactive AI-powered research assistant built using Retrieval-A
 
 ##  Setup Instructions
 
-### 1.Clone this repo
+1. **Clone this repo**
 
 ```bash
 git clone https://github.com/vaibhav34777/AI-Research-Assistant.git
 cd AI-Research-Assistant
-
-### 2.Install Dependencies
-
-```bash
 pip install -r requirements.txt
+
 
 
 
