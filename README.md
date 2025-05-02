@@ -22,12 +22,24 @@ A lightweight, interactive AI-powered research assistant built using Retrieval-A
 
 ##  Setup Instructions
 
-1. **Clone this repo**
+ **Clone this repo and install dependencies**
 
 ```bash
 git clone https://github.com/vaibhav34777/AI-Research-Assistant.git
 cd AI-Research-Assistant
 pip install -r requirements.txt
+
+## Data Sources
+Papers used in this project are public domain and sourced from ***arXiv***.
+
+## Future Improvements
+- User-uploaded PDF support
+- Chat-based interface
+- More powerful LLM integration (e.g., Mixtral, Claude)
+- Topic-specific filters
+
+## License
+MIT License
 
 
 
