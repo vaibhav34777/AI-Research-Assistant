@@ -1,4 +1,6 @@
 # AI Research Assistant
+![Alt text](demo.webp)
+
 
 A lightweight, interactive AI-powered research assistant built using **Retrieval-Augmented Generation (RAG)**. This Streamlit app helps users query research papers in **Machine Learning** and **Electronics** with natural language questions and receive relevant, cited answers.
 
