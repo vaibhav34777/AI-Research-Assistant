@@ -16,12 +16,6 @@ A lightweight, interactive AI-powered research assistant built using **Retrieval
 
 ---
 
-##  Demo
-
-<img src="assets/demo.png" alt="AI Research Assistant Demo" width="700"/>
-
----
-
 ##  Tech Stack
 
 * [Streamlit](https://streamlit.io/) — UI framework
